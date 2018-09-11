@@ -1,8 +1,8 @@
-# Comunidad de Ionic en Español - Código de Conducta
+# Comunidad de Javascript en Español - Código de Conducta
 
 ## 1. Propósito
 
-Uno de los objetivos principales de `ion-book` es ser inclusiva para el 
+Uno de los objetivos principales de `Ng-Classroom` es ser inclusiva para el 
 mayor número de contribuyentes, con la mayor diversidad de orígenes posibles.
 Como tal, estamos comprometidos a proporcionar un ambiente agradable, seguro y
 acogedor para todos, independientemente de su sexo, orientación sexual, 
@@ -12,7 +12,7 @@ Este código de conducta resume nuestras expectativas para todos los que
 participan en nuestra comunidad, así como las consecuencias para el 
 comportamiento inaceptable.
 
-Invitamos a todos los que participan en `ion-book` a que nos ayuden a crear
+Invitamos a todos los que participan en `Ng-Classroom` a que nos ayuden a crear
 experiencias seguras y positivas para todos.
 
 ## 2. Ciudadanía de [Software / Cultura / Tecnología] Libre
@@ -79,7 +79,7 @@ evento de pago).
 Si eres víctima o testigo de una conducta inaceptable, o tienes cualquier 
 inquietud, por favor comunícate con un organizador del meetup lo antes posible. 
 
-Email: todos@ion-book.com
+Email: todos@Ng-Classroom.com
 
 Adicionalmente, los organizadores comunitarios están disponibles para ayudar
 a miembros de la comunidad a contactar a la policía local o interceder para que
@@ -149,7 +149,7 @@ comunicaciones de uno-a-uno pertinentes a los negocios de la comunidad.
 
 ## 9. Contacto
 
-- todos@ion-book.com
+- todos@Ng-Classroom.com
 - [@ion_book](https://twitter.com/ion_book)
 
 ## 10. Licencia y atribución
